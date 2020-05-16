@@ -1,0 +1,1 @@
+#### [Easy Crockpot Shredded Chicken](https://thesaltymarshmallow.com/easy-crockpot-shredded-chicken/)
