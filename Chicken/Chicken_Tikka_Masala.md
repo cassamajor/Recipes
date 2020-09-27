@@ -1,0 +1,1 @@
+#### [Easy Slow Cooker Chicken Tikka Masala](https://www.budgetbytes.com/slow-cooker-chicken-tikka-masala/)
