@@ -1,0 +1,1 @@
+[Shrimp Creole](https://tastesbetterfromscratch.com/shrimp-creole/)

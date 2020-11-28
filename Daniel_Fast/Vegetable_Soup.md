@@ -1,0 +1,1 @@
+#### [Everyday Vegetable Soup](https://www.marthastewart.com/318100/big-batch-vegetable-soup)
