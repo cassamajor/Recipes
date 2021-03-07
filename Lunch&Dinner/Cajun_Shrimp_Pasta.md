@@ -1,12 +1,12 @@
 #### [Cajun Shrimp Pasta](https://selfproclaimedfoodie.com/cajun-shrimp-pasta)
 - [ ] 1 tablespoon kosher salt
-- [ ] 8 ounces penne pasta
+- [ ] 16 ounces penne pasta
 - [ ] 1 pound raw shrimp (deveined, cleaned, tail removed)
-- [ ] 2 tablespoons cajun seasoning (*see note below)
+- [ ] 3 tablespoons cajun seasoning (*see note below)
 - [ ] 1 tablespoon olive oil
-- [ ] 1 tablespoon butter
-- [ ] 1 cup heavy cream
-- [ ] 1/2 cup parmesan cheese
+- [ ] 2 tablespoon butter
+- [ ] 2 cup heavy cream
+- [ ] 1 cup parmesan cheese
 
 1. Add salt to pot of water and bring to a boil.
 1. Cook pasta to al dente doneness.
