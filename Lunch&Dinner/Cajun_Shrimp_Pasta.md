@@ -2,7 +2,7 @@
 - [ ] 1 tablespoon kosher salt
 - [ ] 16 ounces penne pasta
 - [ ] 1 pound raw shrimp (deveined, cleaned, tail removed)
-- [ ] 3 tablespoons cajun seasoning (*see note below)
+- [ ] 2 tablespoons Cajun seasoning
 - [ ] 1 tablespoon olive oil
 - [ ] 2 tablespoon butter
 - [ ] 2 cup heavy cream
