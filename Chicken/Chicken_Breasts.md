@@ -1,5 +1,10 @@
 # [Moist & Tender Chicken Breasts](https://www.thekitchn.com/how-to-cook-moist-tender-chicken-breasts-every-time-cooking-lessons-from-the-kitchn-36891)
 
+- [ ] 1 to 4 boneless, skinless chicken breasts, of similar size
+- [ ] Salt
+- [ ] Freshly ground black pepper
+- [ ] 1 tablespoon olive oil, unsalted butter, or combination of both
+
 1. Pound the chicken breasts to an even thickness with the bottom of a wide jar or glass. You can also use the bottom of a small frying pan.
 1. Lightly season the chicken with salt and pepper.
 1. Heat a frying pan large enough to fit the chicken in a single layer over medium-high heat. When it is quite hot, add the olive oil (or butter, if using). Swirl the pan so it is lightly covered with the olive oil.
