@@ -4,8 +4,8 @@
 - [ ] 1 pound raw shrimp (deveined, cleaned, tail removed)
 - [ ] 2 tablespoons Cajun seasoning
 - [ ] 1 tablespoon olive oil
-- [ ] 2 tablespoon butter
-- [ ] 2 cup heavy cream
+- [ ] 2 tablespoons butter
+- [ ] 2 cups heavy cream
 - [ ] 1 cup parmesan cheese
 
 1. Add salt to pot of water and bring to a boil.

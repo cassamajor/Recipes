@@ -6,8 +6,8 @@
 - [ ] 1 pound raw shrimp (deveined, cleaned, tail removed)
 - [ ] 2 tablespoons Cajun seasoning
 - [ ] 1 tablespoon olive oil
-- [ ] 2 tablespoon butter
-- [ ] 2 cup heavy cream
+- [ ] 2 tablespoons butter
+- [ ] 2 cups heavy cream
 - [ ] 1 cup parmesan cheese
 
 ## Cook the chicken
@@ -20,10 +20,10 @@
 1. Cover the pan with a tight-fitting lid. Set a timer for 10 minutes, and walk away. Do not lift the lid; do not peek.
 1. After 10 minutes have elapsed, turn off the heat. (If you have an electric stove, remove the pan from the heat.) Reset the timer for 10 minutes and leave the chicken breasts in the pan. Again, do not lift the lid; do not peek.
 1. After the 10 minutes are up, uncover, and your chicken is done. Make sure there is no pink in the middle of the chicken breasts. If you want to be absolutely sure it is cooked, you can use an instant-read thermometer to check -- the chicken should be at least 165°F.
-1. Once done cooking, transfer cooked chicken to a clean plate, and slice.
+1. Transfer cooked chicken to a clean plate, and slice.
 
 ## Cook the pasta
-1. While the chicken is cooking, cook the shrimp and sauce.
+1. While the chicken is cooking, cook the pasta.
 1. Add salt to pot of water and bring to a boil.
 1. Cook pasta to al dente doneness.
 1. Before draining, scoop out at least 1/2 cup of the cooking water. Drain pasta and set aside.
