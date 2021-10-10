@@ -6,7 +6,7 @@
 - [ ] 1/4 cup (2 ounces) water, optional
 
 1. [Grease and flour the cake pan](https://www.youtube.com/watch?v=ARm5oDzaMAA)
-1. Break up the crackers and place them in the food processor along with the sugar.
+1. Break up the crackers and place them in the food processor along with the sugar and cinnamon.
 1. Pulse to break the crackers further and then process continuously until the crackers are crushed into fine crumbs, which should yield 2 cups total of graham cracker crumbs.
 1. Melt the butter. Transfer the graham crackers to a bowl and pour the butter over the graham crackers.
 1. Stir until the crumbs are evenly coated and look wet. The crumbs should hold together in a clump if you press them in your fist; if not, add water a tablespoon at a time until this happens.
@@ -36,7 +36,7 @@
 1. Add the eggs and the yolk one at a time. Wait until the previous egg is just barely mixed into the batter before adding the next one. At first, the mixture will look clumpy and broken, but it will come together as the eggs are worked in.
 1. Scrape down the sides of the bowl with a spatula.
 1. Pour the batter over the cooled crust and spread it into an even layer.
-1. Bring a few cups of water to a boil and pour the water into the roasting pan. being careful not to splash any water onto the cheesecake. Fill the pan to about an inch, or just below the lowest edge of foil.
+1. Bring a few cups of water to a boil and pour the water into the roasting pan, being careful not to splash any water onto the cheesecake. Fill the pan to about an inch, or just below the lowest edge of foil.
 1. Bake the cheesecake in a 9-inch cake pan for 55 to 60 minutes. The cheesecake is done when the outer two to three inches look slightly puffed and set, but the inner circle still jiggles (like Jell-O) when you gently shake the pan. Some spots of toasted golden color are fine, but if you see any cracks starting to form, move on to the next step right away.
 1. Leave the cheesecake in the oven. Turn off the oven and crack the door open or prop it open with a wooden spoon. Let the cheesecake cool slowly for 1 hour.
 1. Remove the cheesecake from the oven and from the water bath and place it on top of the stove. Run a thin-bladed knife around the edge of the cake to make sure it's not sticking to the sides (which can cause cracks as it cools). Let the cheesecake cool completely on the stove.
