@@ -1,15 +1,5 @@
-#### Oatmeal
-> Serving size 5
-- [ ] 1 bananas, sliced
-- [ ] 1 apples, shredded
-- [ ] 10 strawberries, sliced
-- [ ] 2 cups of Almond milk
-- [ ] 1 1/2 cups Oatmeal
-- [ ] 1/2 cup frozen pineapples
-- [ ] 1/2 cup frozen blueberries
-- [ ] 1/4 tsp ground cinnamon
-
-> Serving size 6
+# Oatmeal
+> Serving size 4
 - [ ] 1 bananas, sliced
 - [ ] 1 apples, shredded
 - [ ] 10 strawberries, sliced
@@ -19,18 +9,18 @@
 - [ ] 1/2 cup frozen blueberries
 - [ ] 1/2 tsp ground cinnamon
 
-> Serving size 7+
+> Serving size 5+
 - [ ] 2 bananas, sliced
 - [ ] 2 apples, shredded
-- [ ] 10 strawberries, sliced
-- [ ] 2 2/3 cups of Almond milk
-- [ ] 2 cups Oatmeal
-- [ ] 1/2 cup frozen pineapples
-- [ ] 1/2 cup frozen blueberries
-- [ ] 1/2 tsp ground cinnamon
+- [ ] 20 strawberries, sliced
+- [ ] 5 cups of Almond milk
+- [ ] 5 cups Oatmeal
+- [ ] 1 cup frozen pineapples
+- [ ] 2 cups frozen blueberries
+- [ ] 1 tsp ground cinnamon
 
-1. Pour Almond milk into pot. Add cinnamon and set stove on low.
-2. When the milk begins to steam, add oatmeal, frozen blueberries, and frozen pineapples
-3. Once the oatmeal is cooked, add the bananas and stir for 20 seconds.
-4. Turn off the stove, add the strawberries. Stir for 10 seconds.
+1. Add Almond milk, cinnamon, frozen blueberries, and frozen pineapples into a pot. Set stove on low.
+2. When the milk begins to steam, add oatmeal.
+3. Once the oatmeal is cooked, add the bananas. Stir then let sit for 1 minute.
+4. Turn off the stove and add the strawberries. Stir and let sit for 5 minutes.
 5. Add apples, serve immediately.
