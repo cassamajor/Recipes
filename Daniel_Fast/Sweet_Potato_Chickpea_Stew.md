@@ -17,7 +17,7 @@ Optional: 1 cup quinoa or brown rice, cooked according to package directions
 Optional: sour cream for topping
 
 1. In a medium or large pot, sauté onion and garlic in cooking oil for 4-5 minutes over medium heat.
-1. Once onion is soft and translucent, add diced tomatoes and spices: curry powder, chili powder, cayenne pepper, and salt. Then, add chickpeas, sweet potato cubes, and coconut milk.
-1. Cover pot and turn heat to high to bring liquid to a boil. Then, reduce heat to medium-low and lightly simmer uncovered for 35-40 minutes, or until sweet potatoes are soft.
-1. While stew is cooking, prepare quinoa or rice, if using.
-1. When sweet potatoes are soft, run a potato masher through the stew and mash just a bit to thicken it up. Add chopped spinach and wait a few minutes for spinach to wilt. Top with sour cream, if desired, and enjoy!
+2. Once onion is soft and translucent, add diced tomatoes and spices: curry powder, chili powder, cayenne pepper, and salt. Then, add chickpeas, sweet potato cubes, and coconut milk.
+3. Cover pot and turn heat to high to bring liquid to a boil. Then, reduce heat to medium-low and lightly simmer uncovered for 35-40 minutes, or until sweet potatoes are soft.
+4. While stew is cooking, prepare quinoa or rice, if using.
+5. When sweet potatoes are soft, run a potato masher through the stew and mash just a bit to thicken it up. Add chopped spinach and wait a few minutes for spinach to wilt. Top with sour cream, if desired, and enjoy!
