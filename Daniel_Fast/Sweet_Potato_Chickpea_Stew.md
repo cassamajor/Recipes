@@ -1,6 +1,6 @@
 #### [Hearty Sweet Potato Chickpea Stew](https://www.healthy-liv.com/sweet-potato-and-chickpea-stew/)
 
-- [ ] 1 teaspoon cooking oil
+- [ ] 1 teaspoon olive oil
 - [ ] 1 medium or large onion
 - [ ] 4 cloves garlic (can sub 1 tsp. garlic powder)
 - [ ] 2 cans (15 oz. each) diced tomatoes

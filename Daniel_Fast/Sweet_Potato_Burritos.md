@@ -1,6 +1,6 @@
 # [Addictive Sweet Potato Burritos](https://www.allrecipes.com/recipe/13954/addictive-sweet-potato-burritos/)
 
-- [ ] 1 tablespoon vegetable oil
+- [ ] 1 tablespoon olive oil
 - [ ] 1 onion, chopped
 - [ ] 4 cloves garlic, minced
 - [ ] 3 cups dried kidney beans, soaked

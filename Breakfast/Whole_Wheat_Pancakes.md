@@ -14,11 +14,6 @@
 - [ ] 1 tablespoon granulated sugar
 - [ ] 1 teaspoon pure vanilla extract
 
-6. Cook for a few minutes, until you see little bubbles forming on the surface.
-7. Flip the pancakes and cook for a couple minutes on the other side. If you peek underneath, the bottom should be golden brown.
-8. Serve with butter, pure maple syrup, or sliced fruit. Enjoy!
-
-
 1. In a 2-cup liquid measuring cup, combine the milk and vinegar. Stir to combine and let this homemade “buttermilk” mixture rest until it is lightly curdled, at least 5 minutes.
 2. In a medium bowl, whisk together the flour, baking powder, baking soda, salt, sugar, and cinnamon.
 3. To the buttermilk mixture, add the egg, melted butter, and vanilla. Whisk until thoroughly blended.
