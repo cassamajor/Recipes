@@ -10,7 +10,7 @@
 - [ ] 1/2 teaspoon salt
 - [ ] 2 cans (15 oz. each) chickpeas or garbanzo beans, drained and rinsed
 - [ ] 1 large sweet potato, cubed
-- [ ] 1 can light coconut milk* or half a can of full-fat coconut milk diluted with half a can of water
+- [ ] 1 2/3 cups lite coconut milk. Alternative: 1 cup of full-fat coconut milk diluted with 1 cup of Almond milk
 - [ ] 2 cups spinach, tightly packed
 
 Optional: 1 cup quinoa or brown rice, cooked according to package directions
