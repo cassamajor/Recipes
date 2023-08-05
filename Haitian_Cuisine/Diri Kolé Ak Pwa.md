@@ -11,6 +11,7 @@
 - [ ] ½ teaspoon Ground Black Pepper
 - [ ] ½ teaspoon Ground Cloves or Allspice
 - [ ] 4 cups Water
+- [ ] 2 cups water
 
 1. In the Instant Pot (IP) add 4 cups water and cook the beans for 20 minutes on high pressure; turn the steam release handle to sealing.
 2. Wash the rice and set aside.
@@ -22,6 +23,6 @@
 8. Add the beans and stir once. Cook for a couple of minutes.
 9. Add the epis, salt, black pepper, and ground cloves. Stir once.
 10. Add the rice and stir once. Cook for 1 minute.
-11. Add water and coconut milk, stir once.
+11. Add 2 cups of warm water and coconut milk, stir once.
 12. Cover, seal and press the "Rice" setting. Cook for 12 minutes.
 13. Quick release. Fluff and serve warm.
