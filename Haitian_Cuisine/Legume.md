@@ -3,7 +3,7 @@
 - [ ] 1 Eggplant sliced
 - [ ] 3 large Carrots sliced
 - [ ] 1 Small cabbage outer layer removed, quartered
-- [ ] 2 tbsp. Olive Oil; or Canola oil
+- [ ] 2 Tbsp Olive Oil
 - [ ] 1 Large Yellow Onion; roughly chopped
 - [ ] 2 tsp. Garlic; minced
 - [ ] 2 cups Vegetable stock; Low Sodium
@@ -15,11 +15,11 @@
 
 
 1. In the instant pot, press sauté and adjust the time to 7 minutes. 
-2. Add the oil and allow it to heat.
-3. Add onions and garlic and cook for 1 minute. Continue to stir so it does not stick to the pot.
+2. When ready, add the oil, onions and garlic.
+3. Cook for 1 minute. Continue to stir, so it does not stick to the pot.
 4. Add the eggplants, cabbage, and carrots. Stir.
 5. Add vegetable stock.
-6. Close the lid and turn the valve to sealing. Pressure cook on high for 15 minutes.
+6. Close the lid and pressure cook on high for 15 minutes.
 7. After 15 minutes, quick release.
 8. Open the lid, press the sauté button again. Adjust the time to 18 minutes.
 9. Mash the vegetables with a potato masher
