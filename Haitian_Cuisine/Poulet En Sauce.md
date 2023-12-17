@@ -8,7 +8,7 @@
 - [ ] ½ cup Haitian Epis
 
 ## For The Haitian Chicken Stew (Poulet En Sauce)
-- [ ] 4 Tbsp Canola Oil; Vegetable oil, or peanut oil will work.
+- [ ] 4 Tbsp Olive Oil
 - [ ] 4 Cloves Garlic; crushed or smashed in mortar and pestle
 - [ ] 3 ½ Cups Water boiling
 - [ ] 2 Lemons Or Limes juice squeezed then reserve the lemons or limes

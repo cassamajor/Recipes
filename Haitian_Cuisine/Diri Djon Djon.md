@@ -6,7 +6,7 @@
 - [ ] 3 Garlic cloves Minced
 - [ ] 2 cups Frozen green peas
 - [ ] ½ Red bell pepper strips
-- [ ] 2 tbsp. Peanut oil or olive oil
+- [ ] 2 tbsp. Olive Oil
 - [ ] 3 cups Water
 - [ ] 2 Thyme sprigs
 
