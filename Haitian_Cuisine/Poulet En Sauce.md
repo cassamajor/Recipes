@@ -2,8 +2,7 @@
 
 
 ## For The Chicken
-- [ ] 5 Chicken Legs; the skin on or off
-- [ ] 5 Chicken Thighs; the skin on or off
+- [ ] 10 Chicken Breasts
 - [ ] 1 tsp. Kosher Salt
 - [ ] ½ cup Haitian Epis
 
@@ -20,7 +19,19 @@
 - [ ] Salt and Pepper To Taste
 - [ ] 1 Medium Yellow Onion; Cut in half: Half sliced and half diced
 
-## Instructions
+## Prep
+- Cut an onion
+- Cut 4 garlic cloves
+- Combine onion and garlic cloves
+- Squeeze 2 lemons
+- Combine lemons with 2 tablespoon apple cider vinegar
+- Wash and Cut 2 Bell Peppers. Add 1 bell pepper to the lemon mixture
+- Wash Parsley and Thyme (6 Sprigs each). Add to lemon mixture.
+- Add 1 teaspoon of pepper and 1 teaspoon of salt to lemon mixture
+- Open 6oz can of tomato paste
+- Boil 3 ½ cups of water
+
+## Cook
 1. Clean the chicken thoroughly. See the directions in the post.
 2. Season the chicken with the Haitian Epis and salt. Marinate for a minimum of 30 minutes. Best overnight.
 3. In a heavy bottom pan or Dutch oven over medium-high heat, add oil and sear the meat on both sides until lightly golden brown; do not discard the marinating sauce that's left behind in the bowl as we will use it.
