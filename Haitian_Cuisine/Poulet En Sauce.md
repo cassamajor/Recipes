@@ -11,7 +11,7 @@
 - [ ] 4 Cloves Garlic; crushed or smashed in mortar and pestle
 - [ ] 3 ½ Cups Water boiling
 - [ ] 2 Lemons Or Limes juice squeezed then reserve the lemons or limes
-- [ ] 6 tablespoon tomato paste; Or half of a 12 Oz. can
+- [ ] 6 oz can tomato paste
 - [ ] 1 Bell Pepper; Sliced and seeds removed. You can also mix the bell peppers for a vibrant color.
 - [ ] 6 Sprigs Fresh Parsley
 - [ ] 5-6 Sprigs Fresh Thyme
