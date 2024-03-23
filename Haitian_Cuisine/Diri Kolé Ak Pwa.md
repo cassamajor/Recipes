@@ -9,15 +9,14 @@
 - [ ] 3 tbsp Olive Oil
 - [ ] 1 teaspoon Kosher Salt
 - [ ] ½ teaspoon Ground Black Pepper
-- [ ] ½ teaspoon Ground Cloves or Allspice
+- [ ] ½ teaspoon Ground Allspice
 - [ ] 4 cups Water
 - [ ] 2 cups water
 
 # Prep
 - [ ] Add 4 cups of water and 1 cup kidney beans to the Instant Pot. Cook for 40 minutes on high pressure.
-- [ ] Cut 1 onions
+- [ ] Cut 1 onion
 - [ ] Cut 3 Garlic Cloves
-- [ ] Cut 2 Bell Peppers
 - [ ] Wash 2 1/2 cups rice
 
 ## Cook

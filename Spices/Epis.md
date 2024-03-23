@@ -2,7 +2,7 @@
 
 - [ ] ½ cup Fresh parsley chopped
 - [ ] 10 sprigs Thyme
-- [ ] 2 ¼ teaspoon Ground Cloves
+- [ ] 2 ¼ teaspoon Ground Allspice
 - [ ] 10 Cloves garlic
 - [ ] 1 cup Bell peppers
 - [ ] 1 Onion
