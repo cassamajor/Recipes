@@ -2,7 +2,7 @@
 
 
 ## For The Chicken
-- [ ] 10 Chicken Breasts
+- [ ] 4lb Chicken Breasts
 - [ ] 1 tsp. Kosher Salt
 - [ ] ½ cup Haitian Epis
 

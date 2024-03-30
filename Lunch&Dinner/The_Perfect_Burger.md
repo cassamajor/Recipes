@@ -1,1 +1,0 @@
-#### [The Perfect Burger](https://natashaskitchen.com/perfect-burger-recipe/)

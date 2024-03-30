@@ -1,1 +1,0 @@
-[Immunity Bowl](https://www.oneingredientchef.com/immunity-bowl/)

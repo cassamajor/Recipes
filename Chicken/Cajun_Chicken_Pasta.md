@@ -1,5 +1,5 @@
 # Cajun Chicken Pasta
-> Hybrid of the [Chicken Breasts](/Chicken/Chicken_Breasts.md) and [Cajun Shrimp Pasta](/Lunch&Dinner/Cajun_Shrimp_Pasta.md) recipes.
+> Hybrid of the [Chicken Breasts](/Chicken/Stovetop Chicken Breasts.md) and [Cajun Shrimp Pasta](/Lunch&Dinner/Cajun_Shrimp_Pasta.md) recipes.
 
 - [ ] 1 tablespoon sea salt
 - [ ] 16 ounces penne pasta

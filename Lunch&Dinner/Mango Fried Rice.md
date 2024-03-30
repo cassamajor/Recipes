@@ -16,7 +16,7 @@
 - [ ] Salt and pepper to taste
 
 ## Instructions
-1. [Cook the chicken until just cooked](/Chicken/Chicken_Breasts.md). Set the chicken aside on a plate.
+1. [Cook the chicken until just cooked](/Chicken/Stovetop Chicken Breasts.md). Set the chicken aside on a plate.
 2. In a wok, add ¼ cup oil and set the heat to medium. 
 3. Add the mango pieces, leaves, parsley, and bell pepper.
 4. Add in the rice, sweet peas, green onions, red onions, and soy sauce.
