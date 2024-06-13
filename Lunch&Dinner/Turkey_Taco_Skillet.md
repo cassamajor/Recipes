@@ -14,7 +14,7 @@ Taco Skillet
 - [ ] 1 lb. ground turkey ($3.99)
 - [ ] 1 yellow onion ($0.32)
 - [ ] 1 10oz. can diced tomatoes with green chiles ($0.45)
-- [ ] 1 15oz. can black beans ($0.48)
+- [ ] 1 3/4 cups (15oz) black beans ($0.48)
 - [ ] 1 cup frozen corn ($0.35)
 - [ ] 1/2 bunch green onions ($0.45)
 

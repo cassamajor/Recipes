@@ -11,7 +11,6 @@
 - [ ] 2 cup pineapple chunks
 - [ ] 1 cup pineapple juice
 - [ ] 3 cups BBQ sauce
-- [ ] 2 teaspoon apple cider vinegar
 
 
 1. Season the chicken with the chili powder and a generous pinch each of salt and black pepper.

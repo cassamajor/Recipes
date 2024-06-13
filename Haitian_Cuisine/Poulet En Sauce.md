@@ -10,7 +10,7 @@
 - [ ] 4 Tbsp Olive Oil
 - [ ] 4 Cloves Garlic; crushed or smashed in mortar and pestle
 - [ ] 3 ½ Cups Water boiling
-- [ ] 2 Lemons Or Limes juice squeezed then reserve the lemons or limes
+- [ ] 2 Lemons juice squeezed
 - [ ] 6 oz can tomato paste
 - [ ] 1 Bell Pepper; Sliced and seeds removed. You can also mix the bell peppers for a vibrant color.
 - [ ] 6 Sprigs Fresh Parsley

@@ -1,8 +1,8 @@
-#### [Sauce Poids/Black Bean Sauce](https://www.savorythoughts.com/sauce-pois-noir-haitian-black-bean-sauce/#recipe)
+#### [Sos Pois Noir](https://www.savorythoughts.com/sos-pwa-nwa/#recipe)
 
 - [ ] 2 ½ Cups Black Beans Rinsed
-- [ ] 4 Cups Water
-- [ ] 32oz Vegetable Broth
+- [ ] 4 cups Water
+- [ ] 4 cups (32oz) Vegetable Broth
 - [ ] 1 Tbsp. Olive Oil
 - [ ] 3 Garlic Cloves
 - [ ] 1/4 tsp Ground Allspice
