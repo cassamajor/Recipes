@@ -1,5 +1,6 @@
 [Instant Pot Hawaiian Pulled Chicken Sandwiches Recipe | Food Network Kitchen | Food Network](https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-hawaiian-pulled-chicken-sandwiches-3894819)
 
+# Ingredients
 - [ ] 3 pounds skinless, boneless chicken breasts
 - [ ] 2 teaspoon chili powder
 - [ ] Kosher salt and freshly ground black pepper
@@ -13,6 +14,13 @@
 - [ ] 3 cups BBQ sauce
 
 
+# Prep
+- [ ] Cut 2 onions
+- [ ] Mince 4 garlic cloves
+- [ ] Combine 2 teaspoons dry mustard, Pinch of cayenne pepper, 1 tsp Kosher salt, 1 tsp ground black pepper, 2 teaspoon chili powder
+- [ ] Cut 1 pineapple into chunks, and squeeze the juice into a separate container
+
+# Recipe
 1. Season the chicken with the chili powder and a generous pinch each of salt and black pepper.
 2. Set an Instant Pot to saute at high heat.
 3. When the Instant Pot is ready, add the olive oil.
