@@ -1,19 +1,29 @@
 # [Legume](https://www.savorythoughts.com/haitian-legume-eggplant-stew/#recipe)
 
+# Ingredients
 - [ ] 1 Eggplant sliced
-- [ ] 3 large Carrots sliced
+- [ ] 5 large Carrots sliced
 - [ ] 1 Small cabbage outer layer removed, quartered
 - [ ] 2 Tbsp Olive Oil
 - [ ] 1 Large Yellow Onion; roughly chopped
-- [ ] 2 tsp. Garlic; minced
+- [ ] 4 Garlic cloves; minced
 - [ ] 2 cups Vegetable stock; Low Sodium
 - [ ] 6 tbsp. Tomato Paste
-- [ ] Salt and pepper to taste
-- [ ] Juice from 1 lime or lemon
+- [ ] 1 tsp Salt
+- [ ] 1 tsp Pepper
+- [ ] Juice from 1 lemon
 - [ ] ⅓ Cup Haitian Epis
 - [ ] 1 lb. Fresh Spinach
 
+# Prep
+1. Wash and slice eggplant (peeling is optional)
+2. Wash and slice carrots
+3. Wash and cut cabbage
+4. Cut 1 onion
+5. Cut 4 garlic cloves
+6. Squeeze 1 lemon
 
+# Instructions
 1. In the instant pot, press sauté and adjust the time to 7 minutes. 
 2. When ready, add the oil, onions and garlic.
 3. Cook for 1 minute. Continue to stir, so it does not stick to the pot.
