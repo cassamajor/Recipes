@@ -6,7 +6,7 @@
 - [ ] ⅓ cup Chopped Onions
 - [ ] ¼ cup Haitian Epis (Seasoning) or 1 tbsp. better than bouillon
 - [ ] 3 Garlic Cloves chopped
-- [ ] 3 tbsp Olive Oil
+- [ ] 3 Tbsp Olive Oil
 - [ ] 1 teaspoon Kosher Salt
 - [ ] ½ teaspoon Ground Black Pepper
 - [ ] ½ teaspoon Ground Allspice

@@ -14,6 +14,7 @@
 - [ ] Juice from 1 lemon
 - [ ] ⅓ Cup Haitian Epis
 - [ ] 1 lb. Fresh Spinach
+- [ ] Optional: 3lb beef stew meat 
 
 # Prep
 1. Wash and slice eggplant (peeling is optional)

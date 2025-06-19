@@ -20,6 +20,7 @@ Taco Skillet
 
 1. Combine the spices for the homemade taco seasoning, then set the seasoning aside.
 2. Add the cooking oil and ground turkey to a large skillet. Begin to cook the turkey over medium heat, breaking it up into pieces as it cooks.
-3. While the turkey is cooking, dice the onion. Add the onion to the skillet with the turkey and continue to stir and cook until the onions are soft. Add the prepared taco seasoning, then continue to stir and cook for 1-2 minutes more.
-4. Drain the black beans then add them to the skillet with the diced tomatoes (with juices) and frozen corn (no need to thaw). Stir the ingredients in the skillet to combine, then heat through over medium.
-5. While the mixture is heating, slice the green onions. Stir the green onions into the skillet just before serving.
+3. While the turkey is cooking, dice the onion. Add the onion to the skillet with the turkey and continue to stir and cook until the onions are soft.
+4. Add the prepared taco seasoning, then continue to stir and cook for 1-2 minutes more.
+5. Drain the black beans then add them to the skillet with the diced tomatoes (with juices) and frozen corn (no need to thaw). Stir the ingredients in the skillet to combine, then heat through over medium.
+6. While the mixture is heating, slice the green onions. Stir the green onions into the skillet just before serving.
